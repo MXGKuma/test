@@ -1,0 +1,12 @@
+[2016-07-02 06:04:04] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ';'' in C:\Users\Kuma\Desktop\USBWebserver v8.6\root\test\storage\framework\views\4da0f13f411bc07ebf364839e6a5ba8d:6
+Stack trace:
+#0 {main}  
+[2016-07-02 06:04:19] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ';'' in C:\Users\Kuma\Desktop\USBWebserver v8.6\root\test\storage\framework\views\4da0f13f411bc07ebf364839e6a5ba8d:6
+Stack trace:
+#0 {main}  
+[2016-07-02 06:04:38] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'HTML' not found' in C:\Users\Kuma\Desktop\USBWebserver v8.6\root\test\storage\framework\views\4da0f13f411bc07ebf364839e6a5ba8d:6
+Stack trace:
+#0 {main}  
+[2016-07-02 06:18:14] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'HTML' not found' in C:\Users\Kuma\Desktop\USBWebserver v8.6\root\test\storage\framework\views\4da0f13f411bc07ebf364839e6a5ba8d:6
+Stack trace:
+#0 {main}  
